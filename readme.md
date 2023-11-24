@@ -2,7 +2,7 @@ Naan Mudhalvan
 
 Campus: Loyola ICAM College of Engineering and Technology
 
-Use Case: Website Portfolio
+Use Case: To-Do List
 
 
 Team Members:
